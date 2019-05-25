@@ -15,9 +15,9 @@ managers are buyers and
 users are sellers
 
 manager
-username - manager1
-password - 123
+username - 'manager1'
+password - '123'
 
 users
-username - employee1
-password - 123
+username - 'employee1'
+password - '123'
